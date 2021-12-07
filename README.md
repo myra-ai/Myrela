@@ -26,3 +26,4 @@
 </div>
 
   
+  ![Snake animation](https://github.com/myra-ai/myra-ai/blob/output/github-contribution-grid-snake.svg)
