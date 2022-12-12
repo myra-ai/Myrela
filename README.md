@@ -1,5 +1,4 @@
 # Prazer Devs, meu nome é Myrela Almeida!
- - 🐥 Iniciante na área de TI, buscando aprender.
  - 🎈 Estudando Javascript e fazendo bootcamps.
 
 <div align="center">
