@@ -1,5 +1,5 @@
 # Prazer Devs, meu nome é Myrela Almeida!
- - 🎈 Estudando Javascript e fazendo bootcamps.
+ - 🎈  Sempre buscando aprendizado
 
 <div align="center">
   <a href="https://github.com/myra-ai/">
